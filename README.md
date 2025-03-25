@@ -6,11 +6,11 @@
 
 | Fitur          | Keterangan                                                               |
 | -------------- | ------------------------------------------------------------------------ |
-| **Tambah**     | Menambahkan kutipan baru beserta penulisnya                              |
-| **Lihat**      | Menampilkan semua kutipan dalam daftar scrollable                        |
-| **Edit**       | Memodifikasi kutipan yang sudah ada                                      |
-| **Hapus**      | Menghapus kutipan dari daftar                                            |
-| **Pengurutan** | Mengurutkan kutipan berdasarkan: terbaru, terlama, atau yang baru diedit |
+| **Create**     | Menambahkan kutipan baru beserta penulisnya                              |
+| **Read**      | Menampilkan semua kutipan dalam daftar scrollable                        |
+| **Update**       | Memodifikasi kutipan yang sudah ada                                      |
+| **Delete**      | Menghapus kutipan dari daftar                                            |
+| **Sorting** | Mengurutkan kutipan berdasarkan: terbaru, terlama, atau yang baru diedit |
 
 ## Widget yang Digunakan
 
